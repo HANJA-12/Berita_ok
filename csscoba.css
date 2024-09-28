@@ -4,12 +4,6 @@ body{
     display: block;
 }
 
-@media screen and (max-width: 768px){
-    body{
-        width: 100%;
-    }
-
-
 .imgg{
     inline-size: 145px;
     margin-bottom: -90px;
