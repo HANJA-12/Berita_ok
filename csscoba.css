@@ -1,12 +1,10 @@
 body{
     width: fit-content;
     height: fit-content;
-    box-sizing: border-box;
-    display: block;
 }
 
 @media screen and (max-width: 768px){
-    body{
+    body, aside{
         width: 100%;
     }
 
